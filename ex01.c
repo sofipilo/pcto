@@ -9,7 +9,7 @@ int main()
     int numero5;
 
     printf("inserisci l'età di greta\n");
-    scanf("%d", &numero);
+    scanf("%d", &numero1);
     printf("inserisci l'età di marco\n");
     scanf("%d", &numero2);
     printf("inserisci l'età di lorenzo\n");
