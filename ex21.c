@@ -25,7 +25,7 @@ void operazione()
     }
     if(a == '/')
     {
-        printf("il risultato è %d" , x / y);
+        printf("il risultato è %d\n" , x / y);
     }
 }
 
